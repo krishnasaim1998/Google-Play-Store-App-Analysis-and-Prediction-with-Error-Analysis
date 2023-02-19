@@ -26,7 +26,3 @@ Scikit-Learn
 
 Note: Please make sure the dataset "Google-Playstore.csv" is in the same folder as the code.
 Dataset link: https://www.kaggle.com/code/rashmiek99/google-playstore-analysis-prediction/data 
-
-Thanks,
-Krishna Sai Madireddy
-URN: 6672102
