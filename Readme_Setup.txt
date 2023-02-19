@@ -1,3 +1,6 @@
+Note: Please make sure the dataset "Google-Playstore.csv" is in the same folder as the code.
+Dataset link: https://www.kaggle.com/code/rashmiek99/google-playstore-analysis-prediction/data 
+
 *************Steps to access code code using Anaconda*************
 
 Step 1 - Open Anaconda Environment
@@ -23,6 +26,3 @@ Numpy
 Pandas
 Xgboost
 Scikit-Learn
-
-Note: Please make sure the dataset "Google-Playstore.csv" is in the same folder as the code.
-Dataset link: https://www.kaggle.com/code/rashmiek99/google-playstore-analysis-prediction/data 
